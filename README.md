@@ -127,4 +127,4 @@ $table = $postvars["table"];
 $bewerking = $postvars["bewerking"];
 ...
 ```
-Je kan dit in meer detail bekijken in het voorbeeld van de API op https://github.com/ophalvens/MI3-CordovaVoorbeeld/blob/Stap-5-DATA/php/testdb.php .
+Je kan dit in meer detail bekijken in het voorbeeld van de API op https://github.com/ophalvens/mi3Cordova18/blob/Stap5/php/testdb.php .
