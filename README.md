@@ -1,4 +1,4 @@
-# MI3Voorbeeld2017
+# Mi3vb18
 ## Voorbeeld om met Volley in Android Studio data op te vragen
 
 Volley is de bibliotheek die op dit moment (november 2017) door
@@ -8,7 +8,7 @@ Dit voorbeeld bouwt verder op het voorbeeld dat in de vorige les
 gebruikt werd (https://github.com/ophalvens/MI3-CordovaVoorbeeld/tree/Stap-5-DATA).
 
 In dit voorbeeld werken we wel met Kotlin in plaats van met
-Java. (code: https://github.com/ophalvens/Mi3vb18/blob/master/app/src/main/java/net/ophalvens/mi3voorbeeld2017/MainActivity.kt).
+Java. (code: https://github.com/ophalvens/Mi3vb18/blob/master/app/src/main/java/net/ophalvens/mi3vb18/MainActivity.kt).
 
 Voor wie liever de java-syntax leest, kan de code in het zip-bestand 'MainActivity.zip' interessant zijn. 
 
@@ -24,7 +24,7 @@ In je app.gradle :
 ```
 dependencies {
   ...
-  compile 'com.android.volley:volley:1.0.0'
+  compile 'com.android.volley:volley:1.1.1'
 }
 ```
 Afhankelijk van de Gradle versie waarmee je werkt, kan je die compile vervangen door *implementation*.
