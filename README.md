@@ -50,7 +50,7 @@ variabelen:
 override fun onCreate(savedInstanceState: Bundle?) {
   ... 
   val queue = newRequestQueue(this);
-  val url = "http://ophalvens.net/mi3/testdb.php";
+  val url = "https://ophalvens.net/mi3/testdb.php";
 }
 ```
  * *val* gebruik je voor variabelen die immutable zijn
